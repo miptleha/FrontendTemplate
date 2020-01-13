@@ -6,7 +6,7 @@ Empty application with integrated build system
 ```bash
 git clone https://github.com/miptleha/FrontendTemplate.git
 ```
-* Rename FrontendTemplate folder to your application name
+* Rename `FrontendTemplate` folder to your application name, remove `.git` filder, edit `package.json`
 * Download build modules
 ```bash
 npm init

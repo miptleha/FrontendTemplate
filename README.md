@@ -41,7 +41,8 @@ app
 │  css files
 ├─fonts
 │  font files
-└─dist
+dist
+│ minimized files
 ```
 `app/scripts/all.js` and `app/styles/all.css` are automatically generated files.
 

@@ -34,12 +34,12 @@ app
 │  └─src
 │     js files
 ├─styles
-|  └─src
-|     css files
+│  └─src
+│     css files
 ├─images
-|  css files
+│  css files
 ├─fonts
-|  font files
+│  font files
 └─dist
 ```
 `app/scripts/all.js` and `app/styles/all.css` are automatically generated files.

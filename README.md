@@ -14,6 +14,7 @@ npm init
 ```
 * Install [gulp](https://gulpjs.com) build system, and pluggins
 ```bash
+npm i -g gulp-cli
 npm i -D gulp gulp-concat del
 ```
 * Run gulp default task to start site in live reload mode

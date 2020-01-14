@@ -27,7 +27,22 @@ gulp publish
 ```
 
 ## Folders structure
-html: in `app` folder, js: `app/scripts/src`, sass: `app/styles/scss`, images: `app/images`, fonts: `app/fonts`.
+```bash
+app
+│ html files
+├─scripts
+│  └─src
+│     js files
+├─styles
+|  └─src
+|     css files
+├─images
+|  css files
+├─fonts
+|  font files
+└─dist
+```
+`app/scripts/all.js` and `app/styles/all.css` are automatically generated files.
 
 Replace files in the `app` folder with your own.
 

@@ -6,12 +6,16 @@ Empty application with integrated build system
 ```bash
 git clone https://github.com/miptleha/FrontendTemplate.git
 ```
-* Rename `FrontendTemplate` folder to your application name, remove `.git` filder, edit `package.json`
-* Download build modules
+* Rename `FrontendTemplate` folder to your application name
+* Remove `.git` folder, `.gitignore` and `README.md` files
+* Create project file `package.json`
 ```bash
 npm init
 ```
-* Add files (html: in `app` folder, js: `app/scripts/src`, sass: `app/styles/scss`, images: `app/images`, fonts: `app/fonts`)
+* Install [gulp](https://gulpjs.com) build system, and pluggins
+```bash
+npm i -D gulp gulp-concat del
+```
 * Run gulp default task to start site in live reload mode
 ```bash
 gulp
@@ -20,6 +24,11 @@ gulp
 ```bash
 gulp publish
 ```
+
+## Folders structure
+html: in `app` folder, js: `app/scripts/src`, sass: `app/styles/scss`, images: `app/images`, fonts: `app/fonts`.
+
+Now you can replace files in the `app` folder with your own.
 
 ## Details
 Idea and source code taken from [brunch site](https://brunch.io/) and [gulp documentation](https://gulpjs.com/docs/en/getting-started/quick-start).

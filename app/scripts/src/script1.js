@@ -1,0 +1,1 @@
+document.getElementById('span1').innerHtml = 'result1';

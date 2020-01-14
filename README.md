@@ -34,15 +34,15 @@ app
 ├─scripts
 │  └─src
 │     js files
-├─styles
+├─ styles
 │  └─src
 │     css files
-├─images
+├─ images
 │  css files
-├─fonts
+├─ fonts
 │  font files
 dist
-│ minimized files
+└ minimized files
 ```
 `app/scripts/all.js` and `app/styles/all.css` are automatically generated files.
 

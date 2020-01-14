@@ -1,5 +1,5 @@
 # FrontendTemplate
-Empty application with integrated build system
+Sample static site with integrated build system
 
 ## Usage
 * Clone this repository in any folder

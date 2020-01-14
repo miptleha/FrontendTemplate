@@ -29,7 +29,7 @@ gulp publish
 ## Folders structure
 html: in `app` folder, js: `app/scripts/src`, sass: `app/styles/scss`, images: `app/images`, fonts: `app/fonts`.
 
-Now you can replace files in the `app` folder with your own.
+Replace files in the `app` folder with your own.
 
 ## Details
 Idea and source code taken from [brunch site](https://brunch.io/) and [gulp documentation](https://gulpjs.com/docs/en/getting-started/quick-start).

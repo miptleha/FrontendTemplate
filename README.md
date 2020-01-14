@@ -25,6 +25,7 @@ gulp
 ```bash
 gulp publish
 ```
+* Replace files in the `app` folder with your own
 
 ## Folders structure
 ```bash
@@ -43,8 +44,6 @@ app
 └─dist
 ```
 `app/scripts/all.js` and `app/styles/all.css` are automatically generated files.
-
-Replace files in the `app` folder with your own.
 
 ## Details
 Idea and source code taken from [brunch site](https://brunch.io/) and [gulp documentation](https://gulpjs.com/docs/en/getting-started/quick-start).

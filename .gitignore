@@ -1,5 +1,4 @@
 node_modules/
-package.json
+.vscode/
+build/
 package-lock.json
-app/**/all.*
-dist/

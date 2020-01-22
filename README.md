@@ -1,5 +1,3 @@
-https://github.com/itchief/gulp-project-bootstrap-4
-
 # FrontendTemplate
 Sample static bootstrap site with integrated build system.
 

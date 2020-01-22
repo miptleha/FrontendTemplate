@@ -16,4 +16,4 @@ Folder `src` contains site source code.
 
 All necessary libraries (bootstrap, jquery) are loaded into the `node_modules` folder.
 
-Gulp task `gulpfile.js` taken from [itchief repository](https://github.com/itchief/gulp-project-bootstrap-4).
+Gulp task `gulpfile.js` taken from [itchief](https://github.com/itchief/gulp-project-bootstrap-4) repository.

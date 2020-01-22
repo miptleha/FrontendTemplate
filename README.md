@@ -2,10 +2,11 @@
 Sample static bootstrap site with integrated build system.
 
 ## Usage
-```bash
+```
 git clone https://github.com/miptleha/FrontendTemplate.git
 cd FrontendTemplate
 npm i
+npm i -g gulp-cli
 gulp
 ```
 

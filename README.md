@@ -9,7 +9,7 @@ npm i
 gulp
 ```
 
-Test site will be published in `build` folder and running in test web server.
+Test site will be published in `build` folder and running in test web server in live reload mode.
 
 Folder `src` contains site source code.
 
